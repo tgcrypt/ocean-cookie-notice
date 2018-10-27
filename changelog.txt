@@ -1,0 +1,16 @@
+= 1.0.4 =
+- Added: New setting to add an overlay to force the user to accept the cookies policy.
+
+= 1.0.3 =
+- Added: French translation, thanks to Bruno Tritsch.
+- Added: German translation, thanks to Antal Hendrix.
+
+= 1.0.2 =
+- Added: Settings added to run scripts only after the user consent.
+- Added: Settings to reload the page on the button click.
+
+= 1.0.1 =
+- Fixed: Customizer issue.
+
+= 1.0.0 =
+- Initial release.

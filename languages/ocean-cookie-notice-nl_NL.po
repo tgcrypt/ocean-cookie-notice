@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Cookie Notice\n"
+"POT-Creation-Date: 2018-06-11 15:36+0200\n"
+"PO-Revision-Date: 2018-06-11 15:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ocean-cookie-notice.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ocean-cookie-notice.php:105
+msgid "An hour"
+msgstr "Een uur"
+
+#: ocean-cookie-notice.php:106 ocean-cookie-notice.php:360
+msgid "1 day"
+msgstr "1 dag"
+
+#: ocean-cookie-notice.php:107
+msgid "1 week"
+msgstr "1 week"
+
+#: ocean-cookie-notice.php:108
+msgid "1 month"
+msgstr "1 maand"
+
+#: ocean-cookie-notice.php:109
+msgid "3 months"
+msgstr "3 maanden"
+
+#: ocean-cookie-notice.php:110
+msgid "6 months"
+msgstr "6 maanden"
+
+#: ocean-cookie-notice.php:111
+msgid "1 year"
+msgstr "1 jaar"
+
+#: ocean-cookie-notice.php:112
+msgid "infinity"
+msgstr "oneindig"
+
+#: ocean-cookie-notice.php:161 ocean-cookie-notice.php:170
+msgid "Cheatin&#8217; huh?"
+msgstr "Vals spelen hè?"
+
+#: ocean-cookie-notice.php:264
+msgid "Cookie Notice"
+msgstr "Cookie melding"
+
+#: ocean-cookie-notice.php:273
+msgid ""
+"By continuing to use this website, you consent to the use of cookies in "
+"accordance with our Cookie Policy."
+msgstr ""
+"Door deze website te gebruiken aanvaardt u het gebruik van cookies in "
+"overeenstemming met onze Cookie Policy."
+
+#: ocean-cookie-notice.php:278
+msgid "Content"
+msgstr "Inhoud"
+
+#: ocean-cookie-notice.php:293
+msgid "Close Target"
+msgstr "Sluitdoel"
+
+#: ocean-cookie-notice.php:299
+msgid "Button"
+msgstr "Knop"
+
+#: ocean-cookie-notice.php:300
+msgid "Close Icon"
+msgstr "Sluit Icoon"
+
+#: ocean-cookie-notice.php:309
+msgid "Accept"
+msgstr "Akkoord"
+
+#: ocean-cookie-notice.php:314
+msgid "Button Text"
+msgstr "Knop tekst"
+
+#: ocean-cookie-notice.php:332
+msgid "Style"
+msgstr "Stijl"
+
+#: ocean-cookie-notice.php:338
+msgid "Fly-Ins"
+msgstr "Fly-Ins"
+
+#: ocean-cookie-notice.php:339
+msgid "Floating Bar"
+msgstr "﻿Zwevende balk"
+
+#: ocean-cookie-notice.php:353
+msgid "Cookie Expiry"
+msgstr "Stel de de verlooptijd van de cookie in"
+
+#: ocean-cookie-notice.php:359
+msgid "An Hour"
+msgstr "een uur"
+
+#: ocean-cookie-notice.php:361
+msgid "1 Week"
+msgstr "1 Week"
+
+#: ocean-cookie-notice.php:362
+msgid "1 Month"
+msgstr "1 Maand"
+
+#: ocean-cookie-notice.php:363
+msgid "3 Months"
+msgstr "3 Maanden"
+
+#: ocean-cookie-notice.php:364
+msgid "6 Months"
+msgstr "6 Maanden"
+
+#: ocean-cookie-notice.php:365
+msgid "1 Year"
+msgstr "1 Jaar"
+
+#: ocean-cookie-notice.php:366
+msgid "Infinity"
+msgstr "Oneindig"
+
+#: ocean-cookie-notice.php:378
+msgid "Scripts"
+msgstr "Scripts"
+
+#: ocean-cookie-notice.php:392
+msgid "Head (before the closing head tag)"
+msgstr "Head (vóór de afsluitende hoofd tag)"
+
+#: ocean-cookie-notice.php:393 ocean-cookie-notice.php:409
+msgid ""
+"Add cookies JavaScript code here, they will be used after users consent."
+msgstr ""
+"Voer de JavaScript-code voor niet-functionele cookies (bijv. Google "
+"Analytics) die gebruikt moet worden nadat de cookiemelding is "
+"geaccepteerd, hier in."
+
+#: ocean-cookie-notice.php:408
+msgid "Body (before the closing body tag)"
+msgstr "Body (vóór de afsluitende body tag)"
+
+#: ocean-cookie-notice.php:425
+msgid "Reloading"
+msgstr "Herladen"
+
+#: ocean-cookie-notice.php:430
+msgid "Yes"
+msgstr "Ja"
+
+#: ocean-cookie-notice.php:431
+msgid "No"
+msgstr "Nee"
+
+#: ocean-cookie-notice.php:443
+msgid "Styling: General"
+msgstr "Stijl & Kleur / Algemene Kleuren"
+
+#: ocean-cookie-notice.php:457
+msgid "Max Width (px)"
+msgstr "Max. breedte (px)"
+
+#: ocean-cookie-notice.php:523 ocean-cookie-notice.php:816
+msgid "Padding (px)"
+msgstr "Padding (px)"
+
+#: ocean-cookie-notice.php:557 ocean-cookie-notice.php:703
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: ocean-cookie-notice.php:572
+msgid "Border Width (px)"
+msgstr "Randbreedte, px"
+
+#: ocean-cookie-notice.php:593
+msgid "Border Style"
+msgstr "Randstijl"
+
+#: ocean-cookie-notice.php:599
+msgid "None"
+msgstr "Geen"
+
+#: ocean-cookie-notice.php:600
+msgid "Solid"
+msgstr "Enkel"
+
+#: ocean-cookie-notice.php:601
+msgid "Double"
+msgstr "Dubbel"
+
+#: ocean-cookie-notice.php:602
+msgid "Dotted"
+msgstr "Gestippeld"
+
+#: ocean-cookie-notice.php:603
+msgid "Dashed"
+msgstr "Streepjes"
+
+#: ocean-cookie-notice.php:604
+msgid "Groove"
+msgstr "Groef"
+
+#: ocean-cookie-notice.php:617
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: ocean-cookie-notice.php:631
+msgid "Styling: Content"
+msgstr "Styling: inhoud"
+
+#: ocean-cookie-notice.php:646
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: ocean-cookie-notice.php:664 ocean-cookie-notice.php:931
+msgid "Typography"
+msgstr "Typografie"
+
+#: ocean-cookie-notice.php:687
+msgid "Styling: Button"
+msgstr "Styling: knop"
+
+#: ocean-cookie-notice.php:720 ocean-cookie-notice.php:971
+msgid "Color"
+msgstr "Kleur"
+
+#: ocean-cookie-notice.php:737
+msgid "Hover: Background Color"
+msgstr "Achtergrondkleur: hover"
+
+#: ocean-cookie-notice.php:754 ocean-cookie-notice.php:988
+msgid "Hover: Color"
+msgstr "Kleur: hover"
+
+#: ocean-cookie-notice.php:895
+msgid "Border Radius (px)"
+msgstr "Rand radius (px)"
+
+#: ocean-cookie-notice.php:955
+msgid "Styling: Close Icon"
+msgstr "Styling: Pictogram Sluiten"
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Cookie Notice"
+msgstr "OceanWP Cookie kennisgeving"
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-cookie-notice/"
+msgstr "https://oceanwp.org/extension/ocean-cookie-notice/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add a Cookie notice on your website to inform users that you are using "
+"cookies to comply with the EU cookie law GDPR regulations."
+msgstr ""
+"Cookie Kennisgeving geeft je de mogelijkheid op een elegante manier "
+"gebruikers in te lichten over het cookiegebruik op de site, in "
+"overeenstemming met de regels van de EU-cookiewet."
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
